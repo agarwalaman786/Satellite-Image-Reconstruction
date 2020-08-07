@@ -34,7 +34,8 @@ Now click on the start processing button to start the processing..
 One need to wait untill the processing is not done (moving circle does not complete of the browser).
 
 ## After the processing is done pop up will be show to save the Image..
-![Screenshot from 2020-06-28 00-01-56](https://user-images.githubusercontent.com/39858354/89609064-69340e00-d894-11ea-8ec0-35f8a2900342.png)
+![Screenshot from 2020-06-28 11-40-18](https://user-images.githubusercontent.com/39858354/89609162-abf5e600-d894-11ea-9ebd-4103f9056ea6.png)
+
 
 
 
