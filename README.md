@@ -39,10 +39,11 @@ One need to wait untill the processing is not done (moving circle does not compl
 Now you have done..
 ## Results
                Input Image                                                                                    
-               
-               
+![t6](https://user-images.githubusercontent.com/39858354/89609496-a9e05700-d895-11ea-9cce-5543453cefa5.jpg)   
+
+
                Predicted Mask
-![t6](https://user-images.githubusercontent.com/39858354/89609496-a9e05700-d895-11ea-9cce-5543453cefa5.jpg)            ![mask_t6](https://user-images.githubusercontent.com/39858354/89609623-03e11c80-d896-11ea-8b95-d34eedc0b6a2.jpg)
+![mask_t6](https://user-images.githubusercontent.com/39858354/89609623-03e11c80-d896-11ea-8b95-d34eedc0b6a2.jpg)
 
 
 
