@@ -36,6 +36,12 @@ One need to wait untill the processing is not done (moving circle does not compl
 ## After the processing is done pop up will be show to save the Image..
 ![Screenshot from 2020-06-28 11-40-18](https://user-images.githubusercontent.com/39858354/89609162-abf5e600-d894-11ea-9ebd-4103f9056ea6.png)
 
+Now you have done..
+## Results
+Input Image
+![t6](https://user-images.githubusercontent.com/39858354/89609496-a9e05700-d895-11ea-9cce-5543453cefa5.jpg)
+
+
 
 
 
