@@ -15,7 +15,7 @@ pip install -r requirements.txt
 3. Pre trained models are given for the convinence and if one need of the training data contact at (agarwalaman860@gmail.com).
 4. Download all the files and run the project by using command python app.py
 
-After running the above command one need to paste the URL (0.0.0.0:8080) into the browser. This is the localhost address at which the application is running currently.
+After running the above command one need to paste the URL http://0.0.0.0:8080 into the browser. This is the localhost address at which the application is running currently.
 
 ## Below is the home page of the application
 ![Screenshot from 2020-07-14 18-09-05](https://user-images.githubusercontent.com/39858354/89608070-afd43900-d891-11ea-928a-0416edfad0ee.png)
@@ -24,6 +24,13 @@ After running the above command one need to paste the URL (0.0.0.0:8080) into th
 ![Screenshot from 2020-06-26 14-30-56](https://user-images.githubusercontent.com/39858354/89607960-6552bc80-d891-11ea-80bc-ebcc60c07204.png)
 
 ## Now upload the Image which is to be processed by clicking on the browse button..
+![Screenshot from 2020-06-28 13-11-30](https://user-images.githubusercontent.com/39858354/89608355-8ec01800-d892-11ea-866c-86ed6632106d.png)
+
+Now click on the start processing button to start the processing..
+
+## One can see the current processing of the Image by hiting this URL http://0.0.0.0:8080/Gif/t24.gif (file name will be changed accordingly)
+![Screenshot from 2020-06-27 10-02-07](https://user-images.githubusercontent.com/39858354/89608657-5f5ddb00-d893-11ea-95ff-bfc3329d7625.png)
+
 
 
 
