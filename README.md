@@ -38,22 +38,10 @@ One need to wait untill the processing is not done (moving circle does not compl
 
 Now you have done..
 ## Results
-Input Image                |  Predicted Mask
-:-------------------------:|:-------------------------:
-![t11](https://user-images.githubusercontent.com/39858354/89610240-a5b53900-d897-11ea-96f6-a180734735c8.jpg) | ![mask_t11](https://user-images.githubusercontent.com/39858354/89610250-a9e15680-d897-11ea-96fd-713aae266cf3.jpg)
+Input Image                |  Predicted Mask           | Processing GIF           | Output Image
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![t11](https://user-images.githubusercontent.com/39858354/89610240-a5b53900-d897-11ea-96f6-a180734735c8.jpg) | ![mask_t11](https://user-images.githubusercontent.com/39858354/89610250-a9e15680-d897-11ea-96fd-713aae266cf3.jpg) | ![t11](https://user-images.githubusercontent.com/39858354/89610146-70105000-d897-11ea-88ea-1b8649ca85db.gif) | ![t12](https://user-images.githubusercontent.com/39858354/89610317-ce3d3300-d897-11ea-9b8a-19ce9f90c0f3.jpg)
 
-
-### Input Image
-![t11](https://user-images.githubusercontent.com/39858354/89610240-a5b53900-d897-11ea-96f6-a180734735c8.jpg)
-
-### Predicted Mask
-![mask_t11](https://user-images.githubusercontent.com/39858354/89610250-a9e15680-d897-11ea-96fd-713aae266cf3.jpg)
-
-### Processing GIF
-![t11](https://user-images.githubusercontent.com/39858354/89610146-70105000-d897-11ea-88ea-1b8649ca85db.gif)
-
-### Output Image
-![t12](https://user-images.githubusercontent.com/39858354/89610317-ce3d3300-d897-11ea-9b8a-19ce9f90c0f3.jpg)
 
 
 
