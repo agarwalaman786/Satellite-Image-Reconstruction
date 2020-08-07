@@ -15,7 +15,7 @@ pip install -r requirements.txt
 3. Pre trained models are given for the convinence and if one need of the training data contact at (agarwalaman860@gmail.com).
 4. Download all the files and run the project by using command python app.py
 
-After running the above command one need to paste the URL http://0.0.0.0:8080 into the browser. This is the localhost address at which the application is running currently.
+After running the above command one need to paste the URL http://0.0.0.0:8080/ into the browser. This is the localhost address at which the application is running currently.
 
 ## Below is the home page of the application
 ![Screenshot from 2020-07-14 18-09-05](https://user-images.githubusercontent.com/39858354/89608070-afd43900-d891-11ea-928a-0416edfad0ee.png)
@@ -29,7 +29,13 @@ After running the above command one need to paste the URL http://0.0.0.0:8080 in
 Now click on the start processing button to start the processing..
 
 ## One can see the current processing of the Image by hiting this URL http://0.0.0.0:8080/Gif/t24.gif (file name will be changed accordingly)
-![Screenshot from 2020-06-27 10-02-07](https://user-images.githubusercontent.com/39858354/89608657-5f5ddb00-d893-11ea-95ff-bfc3329d7625.png)
+![Screenshot from 2020-06-28 11-05-31](https://user-images.githubusercontent.com/39858354/89608770-a6e46700-d893-11ea-9d1d-d8b8e469e060.png)
+
+One need to wait untill the processing is not done (moving circle does not complete of the browser).
+
+## After the processing is done pop up will be show to save the Image..
+![Screenshot from 2020-06-28 00-01-56](https://user-images.githubusercontent.com/39858354/89609064-69340e00-d894-11ea-8ec0-35f8a2900342.png)
+
 
 
 
