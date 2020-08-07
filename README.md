@@ -18,11 +18,12 @@ pip install -r requirements.txt
 After running the above command one need to paste the URL (0.0.0.0:8080) into the browser. This is the localhost address at which the application is running currently.
 
 ## Below is the home page of the application
-![Screenshot from 2020-06-26 14-30-39](https://user-images.githubusercontent.com/39858354/89435311-53bec700-d762-11ea-996d-191c59f9f21d.png)
+![Screenshot from 2020-07-14 18-09-05](https://user-images.githubusercontent.com/39858354/89608070-afd43900-d891-11ea-928a-0416edfad0ee.png)
 
 ## One should read the Instructions before using the software.. for this click on the click here button
 ![Screenshot from 2020-06-26 14-30-56](https://user-images.githubusercontent.com/39858354/89607960-6552bc80-d891-11ea-80bc-ebcc60c07204.png)
 
+## Now upload the Image which is to be processed by clicking on the browse button..
 
 
 
