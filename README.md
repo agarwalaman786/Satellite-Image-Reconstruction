@@ -38,7 +38,7 @@ One need to wait untill the processing is not done (moving circle does not compl
 
 Now you have done..
 ## Results
-Input Image
+                                             Input Image
 ![t6](https://user-images.githubusercontent.com/39858354/89609496-a9e05700-d895-11ea-9cce-5543453cefa5.jpg)
 
 
