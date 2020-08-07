@@ -20,7 +20,8 @@ After running the above command one need to paste the URL (0.0.0.0:8080) into th
 ## Below is the home page of the application
 ![Screenshot from 2020-06-26 14-30-39](https://user-images.githubusercontent.com/39858354/89435311-53bec700-d762-11ea-996d-191c59f9f21d.png)
 
-
+## One should read the Instructions before using the software.. for this click on the click here button
+![Screenshot from 2020-06-26 14-30-56](https://user-images.githubusercontent.com/39858354/89607960-6552bc80-d891-11ea-80bc-ebcc60c07204.png)
 
 
 
