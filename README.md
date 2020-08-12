@@ -42,6 +42,9 @@ Input Image                |  Predicted Mask           | Processing GIF         
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![t11](https://user-images.githubusercontent.com/39858354/89610240-a5b53900-d897-11ea-96f6-a180734735c8.jpg) | ![mask_t11](https://user-images.githubusercontent.com/39858354/89610250-a9e15680-d897-11ea-96fd-713aae266cf3.jpg) | ![t11](https://user-images.githubusercontent.com/39858354/89610146-70105000-d897-11ea-88ea-1b8649ca85db.gif) | ![t12](https://user-images.githubusercontent.com/39858354/89610317-ce3d3300-d897-11ea-9b8a-19ce9f90c0f3.jpg)
 
+Input Image                |  Predicted Mask           | Processing GIF           | Output Image
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![t1](https://user-images.githubusercontent.com/39858354/89976409-fd7fe580-dc85-11ea-9626-adade30dc37d.jpg) | ![mask_t1](https://user-images.githubusercontent.com/39858354/89976421-053f8a00-dc86-11ea-8640-28c93b764981.jpg) | ![ezgif com-optimize](https://user-images.githubusercontent.com/39858354/89976499-315b0b00-dc86-11ea-8224-b6c9418987cc.gif) | ![t1](https://user-images.githubusercontent.com/39858354/89976475-21432b80-dc86-11ea-95d6-e3d1c70e8ed9.jpg)
 
 
 
